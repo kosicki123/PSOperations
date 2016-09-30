@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 	s.license	= { :type => 'MIT' }
 	s.author	= "Matt McMurry", "Mark Schultz"
 
-	s.ios.deployment_target = '8.0'
+	s.ios.deployment_target = '9.0'
 	s.watchos.deployment_target = "2.0"
 	s.osx.deployment_target = "10.11"
 	s.tvos.deployment_target = "9.0"
